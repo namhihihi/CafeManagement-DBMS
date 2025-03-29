@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\N\u0103m3\\K\u00EC 2\\Database System Management\\CafeManagementDBMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|d:\\n\u0103m3\\k\u00EC 2\\database system management\\cafemanagementdbms\\cafemanagementdbms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|solutionrelative:cafemanagementdbms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|d:\\n\u0103m3\\k\u00EC 2\\database system management\\cafemanagementdbms\\cafemanagementdbms\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|solutionrelative:cafemanagementdbms\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|d:\\n\u0103m3\\k\u00EC 2\\database system management\\cafemanagementdbms\\cafemanagementdbms\\dbmain2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|solutionrelative:cafemanagementdbms\\dbmain2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBMain2.cs",
+              "DocumentMoniker": "D:\\N\u0103m3\\K\u00EC 2\\Database System Management\\CafeManagementDBMS\\CafeManagementDBMS\\DBMain2.cs",
+              "RelativeDocumentMoniker": "CafeManagementDBMS\\DBMain2.cs",
+              "ToolTip": "D:\\N\u0103m3\\K\u00EC 2\\Database System Management\\CafeManagementDBMS\\CafeManagementDBMS\\DBMain2.cs",
+              "RelativeToolTip": "CafeManagementDBMS\\DBMain2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:53:16.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagerForm.cs [Design]",
+              "DocumentMoniker": "D:\\N\u0103m3\\K\u00EC 2\\Database System Management\\CafeManagementDBMS\\CafeManagementDBMS\\ManagerForm.cs",
+              "RelativeDocumentMoniker": "CafeManagementDBMS\\ManagerForm.cs",
+              "ToolTip": "D:\\N\u0103m3\\K\u00EC 2\\Database System Management\\CafeManagementDBMS\\CafeManagementDBMS\\ManagerForm.cs [Design]",
+              "RelativeToolTip": "CafeManagementDBMS\\ManagerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:51:09.666Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\N\u0103m3\\K\u00EC 2\\Database System Management\\CafeManagementDBMS\\CafeManagementDBMS\\Login.cs",
+              "RelativeDocumentMoniker": "CafeManagementDBMS\\Login.cs",
+              "ToolTip": "D:\\N\u0103m3\\K\u00EC 2\\Database System Management\\CafeManagementDBMS\\CafeManagementDBMS\\Login.cs [Design]",
+              "RelativeToolTip": "CafeManagementDBMS\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:44:47.039Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
