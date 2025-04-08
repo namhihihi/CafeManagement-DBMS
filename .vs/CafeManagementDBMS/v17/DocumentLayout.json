@@ -1,57 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\test\\CafeManagement-DBMS\\",
+  "WorkspaceRootPath": "D:\\N\u0103m3\\K\u00EC 2\\Database System Management\\CafeManagementDBMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|d:\\test\\cafemanagement-dbms\\cafemanagementdbms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|d:\\n\u0103m3\\k\u00EC 2\\database system management\\cafemanagementdbms\\cafemanagementdbms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|solutionrelative:cafemanagementdbms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|d:\\test\\cafemanagement-dbms\\cafemanagementdbms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|solutionrelative:cafemanagementdbms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|d:\\test\\cafemanagement-dbms\\cafemanagementdbms\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|solutionrelative:cafemanagementdbms\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|d:\\test\\cafemanagement-dbms\\cafemanagementdbms\\informationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|solutionrelative:cafemanagementdbms\\informationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|d:\\test\\cafemanagement-dbms\\cafemanagementdbms\\billsmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|solutionrelative:cafemanagementdbms\\billsmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|D:\\test\\CafeManagement-DBMS\\cafemanagementdbms\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|d:\\n\u0103m3\\k\u00EC 2\\database system management\\cafemanagementdbms\\cafemanagementdbms\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|solutionrelative:cafemanagementdbms\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|d:\\test\\cafemanagement-dbms\\cafemanagementdbms\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|solutionrelative:cafemanagementdbms\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|d:\\test\\cafemanagement-dbms\\cafemanagementdbms\\informationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|solutionrelative:cafemanagementdbms\\informationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|d:\\test\\cafemanagement-dbms\\cafemanagementdbms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|solutionrelative:cafemanagementdbms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|d:\\test\\cafemanagement-dbms\\cafemanagementdbms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|solutionrelative:cafemanagementdbms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|d:\\test\\cafemanagement-dbms\\cafemanagementdbms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|solutionrelative:cafemanagementdbms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|d:\\test\\cafemanagement-dbms\\cafemanagementdbms\\my_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|solutionrelative:cafemanagementdbms\\my_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|D:\\test\\CafeManagement-DBMS\\cafemanagementdbms\\dbmain2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|d:\\n\u0103m3\\k\u00EC 2\\database system management\\cafemanagementdbms\\cafemanagementdbms\\dbmain2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0C5147B-FC3A-42B0-8650-09EBD2EB1594}|CafeManagementDBMS\\CafeManagementDBMS.csproj|solutionrelative:cafemanagementdbms\\dbmain2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,68 +22,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\User.cs",
-              "RelativeDocumentMoniker": "CafeManagementDBMS\\User.cs",
-              "ToolTip": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\User.cs",
-              "RelativeToolTip": "CafeManagementDBMS\\User.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA4wCQAAAAiAAAAAAAAAA==",
+              "Title": "DBMain2.cs",
+              "DocumentMoniker": "D:\\N\u0103m3\\K\u00EC 2\\Database System Management\\CafeManagementDBMS\\CafeManagementDBMS\\DBMain2.cs",
+              "RelativeDocumentMoniker": "CafeManagementDBMS\\DBMain2.cs",
+              "ToolTip": "D:\\N\u0103m3\\K\u00EC 2\\Database System Management\\CafeManagementDBMS\\CafeManagementDBMS\\DBMain2.cs",
+              "RelativeToolTip": "CafeManagementDBMS\\DBMain2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T08:37:23.084Z",
+              "WhenOpened": "2025-03-29T09:53:16.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InformationForm.cs [Design]",
-              "DocumentMoniker": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\InformationForm.cs",
-              "RelativeDocumentMoniker": "CafeManagementDBMS\\InformationForm.cs",
-              "ToolTip": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\InformationForm.cs [Design]",
-              "RelativeToolTip": "CafeManagementDBMS\\InformationForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T08:27:41.445Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RegisterForm.cs [Design]",
-              "DocumentMoniker": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\RegisterForm.cs",
-              "RelativeDocumentMoniker": "CafeManagementDBMS\\RegisterForm.cs",
-              "ToolTip": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\RegisterForm.cs [Design]",
-              "RelativeToolTip": "CafeManagementDBMS\\RegisterForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T08:28:45.047Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MenuForm.cs [Design]",
-              "DocumentMoniker": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\MenuForm.cs",
-              "RelativeDocumentMoniker": "CafeManagementDBMS\\MenuForm.cs",
-              "ToolTip": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\MenuForm.cs [Design]",
-              "RelativeToolTip": "CafeManagementDBMS\\MenuForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T08:28:46.319Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "ManagerForm.cs [Design]",
-              "DocumentMoniker": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\ManagerForm.cs",
+              "DocumentMoniker": "D:\\N\u0103m3\\K\u00EC 2\\Database System Management\\CafeManagementDBMS\\CafeManagementDBMS\\ManagerForm.cs",
               "RelativeDocumentMoniker": "CafeManagementDBMS\\ManagerForm.cs",
-              "ToolTip": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\ManagerForm.cs [Design]",
+              "ToolTip": "D:\\N\u0103m3\\K\u00EC 2\\Database System Management\\CafeManagementDBMS\\CafeManagementDBMS\\ManagerForm.cs [Design]",
               "RelativeToolTip": "CafeManagementDBMS\\ManagerForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T09:51:09.666Z",
@@ -133,103 +53,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\Login.cs",
+              "DocumentMoniker": "D:\\N\u0103m3\\K\u00EC 2\\Database System Management\\CafeManagementDBMS\\CafeManagementDBMS\\Login.cs",
               "RelativeDocumentMoniker": "CafeManagementDBMS\\Login.cs",
-              "ToolTip": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\Login.cs [Design]",
+              "ToolTip": "D:\\N\u0103m3\\K\u00EC 2\\Database System Management\\CafeManagementDBMS\\CafeManagementDBMS\\Login.cs [Design]",
               "RelativeToolTip": "CafeManagementDBMS\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T09:44:47.039Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BillsManagementForm.cs [Design]",
-              "DocumentMoniker": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\BillsManagementForm.cs",
-              "RelativeDocumentMoniker": "CafeManagementDBMS\\BillsManagementForm.cs",
-              "ToolTip": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\BillsManagementForm.cs [Design]",
-              "RelativeToolTip": "CafeManagementDBMS\\BillsManagementForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T08:40:52.819Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "InformationForm.cs",
-              "DocumentMoniker": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\InformationForm.cs",
-              "RelativeDocumentMoniker": "CafeManagementDBMS\\InformationForm.cs",
-              "ToolTip": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\InformationForm.cs",
-              "RelativeToolTip": "CafeManagementDBMS\\InformationForm.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA3wB0AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T08:42:43.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RegisterForm.cs",
-              "DocumentMoniker": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\RegisterForm.cs",
-              "RelativeDocumentMoniker": "CafeManagementDBMS\\RegisterForm.cs",
-              "ToolTip": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\RegisterForm.cs",
-              "RelativeToolTip": "CafeManagementDBMS\\RegisterForm.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T08:41:30.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Login.cs",
-              "DocumentMoniker": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\Login.cs",
-              "RelativeDocumentMoniker": "CafeManagementDBMS\\Login.cs",
-              "ToolTip": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\Login.cs",
-              "RelativeToolTip": "CafeManagementDBMS\\Login.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAUwCwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T08:31:56.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\Program.cs",
-              "RelativeDocumentMoniker": "CafeManagementDBMS\\Program.cs",
-              "ToolTip": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\Program.cs",
-              "RelativeToolTip": "CafeManagementDBMS\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T08:27:36.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MY_DB.cs",
-              "DocumentMoniker": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\MY_DB.cs",
-              "RelativeDocumentMoniker": "CafeManagementDBMS\\MY_DB.cs",
-              "ToolTip": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\MY_DB.cs",
-              "RelativeToolTip": "CafeManagementDBMS\\MY_DB.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T08:31:05.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DBMain2.cs",
-              "DocumentMoniker": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\DBMain2.cs",
-              "RelativeDocumentMoniker": "CafeManagementDBMS\\DBMain2.cs",
-              "ToolTip": "D:\\test\\CafeManagement-DBMS\\CafeManagementDBMS\\DBMain2.cs",
-              "RelativeToolTip": "CafeManagementDBMS\\DBMain2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T09:53:16.337Z",
-              "EditorCaption": ""
             }
           ]
         }
