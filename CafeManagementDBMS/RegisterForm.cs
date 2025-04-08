@@ -16,5 +16,10 @@ namespace CafeManagementDBMS
         {
             InitializeComponent();
         }
+
+        private void btnSignin_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
